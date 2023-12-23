@@ -45,14 +45,14 @@ The Timezone Converter Script is a Bash script that allows users to convert a gi
 ### Example
 
 1. Enter the required information when prompted:
-   ```bash
+   ```
    Enter date and time (YYYY-MM-DD HH:MM:SS): 2023-01-01 12:00:00
    Enter source timezone: America/New_York
    Enter target timezone: Europe/London
    ```
 
 2. The script will display the converted datetime:
-   ```bash
+   ```
    Converted datetime: 2023-01-01 17:00:00
    ```
 
